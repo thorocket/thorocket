@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currently learning Javascript
-<img src="https://c.tenor.com/G8F8DlwfCbQAAAAC/tenor.gif" alt="Coding Cat" align="right">
+<img src="https://c.tenor.com/G8F8DlwfCbQAAAAC/tenor.gif" width="350" alt="Coding Cat" align="right">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/574294846592909332) 
