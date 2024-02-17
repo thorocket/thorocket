@@ -1,5 +1,3 @@
-[![MasterHead](https://w0.peakpx.com/wallpaper/263/448/HD-wallpaper-video-game-legends-of-runeterra-poro-league-of-legends.jpg)]
-
 # 💫 About Me:
 I'm currently learning Javascript
 <img src="https://c.tenor.com/G8F8DlwfCbQAAAAC/tenor.gif" width="320" alt="Coding Cat" align="right">
