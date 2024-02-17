@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Javascript
+Learning Javascript
 <img src="https://c.tenor.com/G8F8DlwfCbQAAAAC/tenor.gif" width="320" alt="Coding Cat" align="right">
 
 ## 🌐 Socials:
