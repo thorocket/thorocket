@@ -2,7 +2,7 @@
 Learning Javascript
 <img src="https://c.tenor.com/G8F8DlwfCbQAAAAC/tenor.gif" width="320" alt="Coding Cat" align="right">
 
-## 🌐 Contact:
+## 🌐 Social:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/574294846592909332) 
 
 # 💻 Tech Stack:
